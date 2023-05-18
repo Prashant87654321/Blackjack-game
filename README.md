@@ -1,2 +1,2 @@
-Try the game https://app.netlify.com/sites/blackjack-cards-game/
+Try the game https://blackjack-cards-game.netlify.app/
    
